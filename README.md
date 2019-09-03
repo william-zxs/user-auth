@@ -10,4 +10,3 @@ pip install user-auth
 # example 
 ```from user_auth import user_auth
 user_auth("root","abcd1234")
-
