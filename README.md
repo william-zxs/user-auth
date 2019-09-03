@@ -1,2 +1,4 @@
 # user-auth
-linux user-password authenticate 
+Linux user-password authenticate for python
+
+Need to be root when running it
